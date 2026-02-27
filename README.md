@@ -1,6 +1,6 @@
 # Ravilla Keerthi Naidu - Professional Portfolio
 
-🔗 **GitHub Pages URL:** [https://lazynoob.github.io/Ravilla-Keerthi-Naidu/](https://lazynoob3.github.io/Ravilla-Keerthi-Naidu/)
+🔗 **GitHub Pages URL:** [https://ravillakeerthinaidu.github.io/Ravilla-Keerthi-Naidu/](https://ravillakeerthinaidu.github.io/Ravilla-Keerthi-Naidu/)  
 
 ---
 
@@ -51,7 +51,7 @@ Ravilla-Keerthi-Naidu/
 This portfolio is deployed to GitHub Pages with the following configuration:
 
 1. **Source:** Main branch, root (/) directory
-2. **URL:** https://lazynoob.github.io/Ravilla-Keerthi-Naidu/
+2. **URL:** https://ravillakeerthinaidu.github.io/Ravilla-Keerthi-Naidu/
 3. **Auto-Deploy:** Changes pushed to main branch are automatically deployed
 
 ---
@@ -133,7 +133,7 @@ Edit `assets/js/script.js` to:
 ## 📱 How to Use
 
 ### View Online
-1. Visit: https://lazynoob.github.io/Ravilla-Keerthi-Naidu/
+1. Visit: https://ravillakeerthinaidu.github.io/Ravilla-Keerthi-Naidu/
 2. Explore all sections
 3. Toggle dark mode with the moon/sun icon
 4. Download resume using the button
