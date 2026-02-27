@@ -26,8 +26,6 @@ Ravilla-Keerthi-Naidu/
 │   │   └── styles.css                 # Styling & theme management
 │   └── js/
 │       └── script.js                  # Interactive features
-├── resume/
-│   └── Ravilla_Res_26_260214_133721.pdf  # Downloadable resume PDF
 ├── README.md                           # This file
 └── LICENSE                             # MIT License
 ```
@@ -40,7 +38,6 @@ Ravilla-Keerthi-Naidu/
 - ✅ **Dark Mode Toggle** - Theme switching with persistent storage
 - ✅ **Smooth Animations** - Professional transitions and hover effects
 - ✅ **Fixed Navigation** - Quick access to all sections
-- ✅ **Downloadable Resume** - PDF available from the portfolio
 - ✅ **Performance Optimized** - Fast loading and smooth interactions
 - ✅ **Accessibility** - Semantic HTML and keyboard navigation
 
@@ -60,7 +57,7 @@ This portfolio is deployed to GitHub Pages with the following configuration:
 
 ### Hero Section
 - Professional name and title
-- Call-to-action buttons for contact and resume download
+- Call-to-action button for getting in touch
 
 ### About Me
 - Professional summary
@@ -136,7 +133,7 @@ Edit `assets/js/script.js` to:
 1. Visit: https://ravillakeerthinaidu.github.io/Ravilla-Keerthi-Naidu/
 2. Explore all sections
 3. Toggle dark mode with the moon/sun icon
-4. Download resume using the button
+4. Use Get In Touch to connect
 
 ### Develop Locally
 1. Clone the repository
@@ -164,7 +161,6 @@ This project is open source and available under the MIT License. See the LICENSE
 - Semantic markup for accessibility
 - Structured layout with clear sections
 - Responsive meta tags
-- Download functionality for PDF
 - Font Awesome icon integration
 
 ### CSS Features
